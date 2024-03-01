@@ -4,7 +4,7 @@ This module uses a 3d printed spiral torsion spring (SPS) connected to the shaft
 
 <img src="/imgs/SEA.png" width="350">
 
-<img src="/imgs/SEA.png" width="350">
+<img src="/imgs/sps.png" width="350">
 
 The JGA25-370 is a very common format of DC motor with a 4 mm shaft, there is a vast set of gearbox ratios and nominal voltage, so you can choose an specific one to match your demands. You also need to modify the SPS "arm" to attach its body to something.
 
